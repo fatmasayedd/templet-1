@@ -1,0 +1,134 @@
+﻿.home{
+    background: url(../img/033/1.webp) center no-repeat;
+    background-size: cover;
+    height: 440px;
+    position: relative;
+}
+
+.hero-image{
+    position: absolute;
+    top: 60%;
+    left: 38%;
+    transform: translate(-50%,-55%);
+    color: rgb(65, 65, 65);
+   
+}
+
+.hero-image h1{
+    font-size: 35px;
+    font-weight: 740 !important;
+}
+
+
+.image-2,.image-3,.image-4,.image-5,.image-6,.image-7{
+    border-radius: 15px;
+    max-width: 18rem !important;
+    height: 250px;
+  
+}
+
+.image-2{
+    background: url(../img/033/2.webp) center no-repeat ;
+    background-size: cover;
+}
+
+
+.image-3{
+    background: url(../img/033/3.webp) center no-repeat ;
+    background-size: cover;
+}
+
+
+.image-4{
+    background: url(../img/033/4.webp) center no-repeat ;
+    background-size: cover;
+}
+
+
+.title{
+    margin: 80px 0px 30px 0px;
+}
+
+
+
+
+.btn-2{
+height: 35px !important;
+
+}
+
+.content-Discount {
+    margin-top: 15PX;
+    line-height: 0px !important;
+}
+.content-Discount .price{
+    display: inline;
+    margin-right: 20px;
+}
+
+.content-Discount p,.content-Discount span{
+    color: rgb(116, 116, 116);
+ 
+}
+
+.content-Discount i{
+     color: rgb(238, 194, 0);
+     font-size: 15px;
+}
+
+.content-Discount h5{
+
+    font-size: 15px;
+}
+
+.btn-2 p,.btn-2 h5{
+    font-size: 13px;
+}
+ .btn-2 h5{
+    line-height: 8px;
+ }
+
+ .btn-3{
+    margin:-48px  5px 0px !important ;
+     padding:4px 0px !important; 
+     width: 3px !important;
+ }  
+
+ 
+ .btn-4{
+    margin:-48px 5px 0px  !important; 
+     padding:4px 0px !important;
+      width: 5px !important;
+ }
+
+ .btn-5{
+    margin:-48px  5px 0px  !important;
+      padding:4px 0px !important;  
+      width:3px !important;
+ }
+
+
+ .btn-6{
+    margin:-48px 5px 0px  !important;
+     padding:4px 0px !important; 
+      width: 3px !important;
+ } 
+
+
+
+.image-5{
+    background: url(../img/033/11.webp) center no-repeat ;
+    background-size: cover;
+}
+
+
+.image-6{
+    background: url(../img/033/12.webp) center no-repeat ;
+    background-size: cover;
+}
+
+
+.image-7{
+    background: url(../img/033/13.webp) center no-repeat ;
+    background-size: cover;
+}
